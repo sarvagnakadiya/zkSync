@@ -4,7 +4,7 @@ require("dotenv").config({ path: __dirname + "/.env" });
 
 module.exports = {
   zksolc: {
-    version: "1.3.1",
+    version: "1.3.5",
     compilerSource: "binary",
     settings: {},
   },
